@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "smartoctopus:block/bismuth_block"
+    }
+  }
+}
